@@ -1,6 +1,6 @@
-[submodule "301_Web"]
-	path = 301_Web
-	url = git@github.com:Maupa/301_Web.git
-[submodule "201_Web"]
-	path = 201_Web
-	url = git@github.com:Maupa/201_Web.git
+[submodule "Mauao_301"]
+	path = Mauao_301
+	url = git@github.com:Maupa/Mauao_301.git
+[submodule "Mauao_201"]
+	path = Mauao_201
+	url = git@github.com:Maupa/Mauao_201.git
